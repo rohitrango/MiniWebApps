@@ -1,0 +1,25 @@
+body {
+  background-color: #ffff66;
+  font-family: Raleway;
+  font-size: 25px;
+}
+
+#quote {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  border: black box;
+}
+
+.smaller-font {
+  font-family: Raleway;
+  font-size: 18px;
+}
+
+#getQuote {
+  font-family: Raleway;
+  font-size: 20px;
+  background-color:#ffff66;
+  color:black;
+  border: black box;
+}
