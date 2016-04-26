@@ -1,7 +1,7 @@
 var colors = [" #4dff4d","#ff3333","#ffcc33","#668cff"];
 var index = 0;
 $(document).ready(function() {
-  
+  var datakey = "OivH71yd3tmshl9YKzFH7BTzBVRQp1RaKLajsnafgL2aPsfP9V";
   $('#getQuote').click(function() {
 
     index = (index+1)%4; 
