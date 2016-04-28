@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WikiView</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link href='https://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="icon.png" type="image/png">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4"></div>
+
+			<div class="col-lg-4 text-center">
+				<h1>WikiView</h1>
+				<br><br>
+				<div class="row">
+					<div class="col-lg-10">
+						<input type="text" id="query" />
+					</div>
+					<div class="col-lg-2 pull-left">
+						<a href="#">
+							<i class="fa fa-search fa-lg" id="search"></i>
+						</a>
+					</div>
+				</div> <br>
+				<a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="btn btn-primary center-block" id="randomArticle">Random article</a>
+				<a href="#" class="btn btn-danger center-block" id="reset">Reset</a>
+			</div>
+
+			<div class="col-lg-4"></div>
+		</div>
+	</div>
+
+	<div class="container" id="results">
+	<br><br> <div class="text-center">This page gives you custom output to your query as a wikipedia search. Feel free to contribute to it. </div>
+	</div>
+	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	<script src="script.js"></script>
+</body>
+</html>
