@@ -16,5 +16,5 @@ Wikipedia too clumsy? Try this. This app takes input from user and returns Wikip
 Wanna catch up on the quick local weather status? Head over here. :D
 
 
-**NOTE**
-All images are licensed under Creative Commons Attribute Share-Alike 3.0 license. Source - <a href="https://commons.wikimedia.org/wiki/File:Quote_right_font_awesome.svg"><b>WikiMedia</b></a> 
+**NOTE** <br>
+All images are licensed under Creative Commons Attribute Share-Alike 3.0 license. 
