@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Raleway;
+	font-size:25px;
+}
+.big-font{
+	font-size: 40px;
+}
+#location{
+	font-size: 30px;
+}
+
+i.w{
+	font-size:55px;
+}

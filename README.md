@@ -11,4 +11,8 @@ Need to get inspired? This simple webapp fetches a random quote and displays it 
 
 Wikipedia too clumsy? Try this. This app takes input from user and returns Wikipedia articles.
 
+###WeatherApp
+
+Wanna catch up on the quick local weather status? Head over here. :D
+
 The image is licensed under Creative Commons Attribute Share-Alike 3.0 license. Source - <a href="https://commons.wikimedia.org/wiki/File:Quote_right_font_awesome.svg"><b>WikiMedia</b></a> 
