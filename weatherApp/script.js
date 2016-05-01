@@ -49,8 +49,6 @@ $(document).ready(function() {
             });
         });
 
-
-
     } else {
         alert("Error!");
     }
