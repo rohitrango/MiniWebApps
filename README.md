@@ -15,4 +15,5 @@ Wanna catch up on the quick local weather status? Head over here. :D
 ###Calculator
 A basic calculator built using AngularJS (for learning purposes)
 
-The image is licensed under Creative Commons Attribute Share-Alike 3.0 license. Source - <a href="https://commons.wikimedia.org/wiki/File:Quote_right_font_awesome.svg"><b>WikiMedia</b></a> 
+**NOTE** <br>
+All images are licensed under Creative Commons Attribute Share-Alike 3.0 license. 
